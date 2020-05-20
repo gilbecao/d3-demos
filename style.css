@@ -1,0 +1,14 @@
+body {
+  font-family: Avenir, sans-serif;
+}
+svg {
+  border: 1px solid #bbb;
+}
+
+.axis .domain {
+  stroke: none;
+}
+
+.x line {
+  stroke: white;
+}
